@@ -18,6 +18,6 @@ public interface Constants {
     final public static String NEXT_VALUE = "next";
     final public static String HREF_ATTRIBUTE = "href";
 
-    final public static String HTTP_PROTOCOL = "http:";
+    final public static String HTTP_PROTOCOL = "https:";
 
 }
